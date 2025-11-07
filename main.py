@@ -9,7 +9,7 @@ from tensorflow.keras.layers import Dense, Dropout, BatchNormalization
 from tensorflow.keras.optimizers import Adam
 import tensorflow as tf
 
-#Load and preprocess the dataset
+#Load and process the dataset
 data_dir = 'my_dataset'
 filepaths = []
 labels = []
